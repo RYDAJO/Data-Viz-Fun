@@ -1,8 +1,0 @@
-{
-    "name": "igus",
-    "children": [{
-        "name": "analytics"
-    }, {
-        "name": "vis"
-    }]
-}
