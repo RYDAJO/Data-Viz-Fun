@@ -1,0 +1,41 @@
+{
+    "name": "Product Outline",
+    "children": [{
+        "name": "Additive Manufacturing",
+        "children": [{
+            "name": "3D Printer Resins",
+            "children": [{
+                "name": "Resin for Digital Light Processing (DLP)"
+            }]
+        }]    
+    },{
+        "name": "Bearings",
+        "children": [{
+            "name": "Wear-Sensing Bearings",
+            "children": [{
+                "name": "Smart Plastics for Predictive Maintenance"
+            }]
+        }]
+    },{
+        "name": "Cable and Hose Carriers",
+        "children": [{
+            "name": "Pre-assembled Cable Carriers",
+            "children": [{
+                "name": "Pre-assembled Cable Carriers"
+            }]
+        }]
+    },{
+        "name": "Carriages and Guide Rails",
+        "children": [{
+            "name": "Cartesian Gantry",
+            "children": [{
+                "name": "XY Actuator (Single Rail)"
+            },{
+                "name": "XY Gantry"
+            },{
+                "name": "XYZ Gantry"
+            }]
+        }]
+    }]
+}
+
