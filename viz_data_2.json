@@ -1,0 +1,41 @@
+{
+    "name": "igus",
+    "children": [{
+        "name": "accessories for delta robots"
+    }, {
+        "name": "accessories for linear robots"
+    }, {
+        "name": "asymmetrical worm gears"
+    }, {
+        "name": "external brake resistors"
+    }, {
+        "name": "joints with motor"
+    }, {
+        "name": "lift/swivel units"
+    }, {
+        "name": "pre-assembled cable carriers"
+    }, {
+        "name": "resin for digital light processing (dlp"    
+    }, {
+        "name": "rotary axis with stepper motor"
+    }, {
+        "name": "smart plastics for condition monitoring"
+    }, {
+        "name": "smart plastics for predictive maintenance"
+    }, {
+        "name": "spherical balls"
+    }, {
+        "name": "symmetrical worm gears"
+    }, {
+        "name": "three axis delta robot"
+    }, {
+        "name": "two axis delta robot"
+    }, {
+        "name": "xy actuator (single rail)"
+    }, {
+        "name": "xy gantry"
+    }, {
+        "name": "xyz gantry"
+        }]
+}
+
